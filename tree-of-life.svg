@@ -1,26 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="33 170 572 640">
 <g fill="none" stroke="#000" stroke-miterlimit="10" font-family="ArialMT" font-size="9"><path d="M310.66,399.811 L306,396 M420.085,404.212 L312.005,396.432
-M312.005,396.432 c-0.184,2.536-1.939,4.684-4.389,5.367
+M312.005,396.432 c-.184,2.536-1.939,4.684-4.389,5.367
  M307.616,401.799 L309.232,407.598 M456.5,396 L420.38,396
-M420.38,396 c0,5.482-0.394,10.957-1.179,16.382
+M420.38,396 c0,5.482-.394,10.957-1.179,16.382
  M419.201,412.382 L425.158,413.244 M456.185,405.742 L426.147,403.794
-M426.147,403.794 c-0.41,6.326-1.32,12.61-2.72,18.794
+M426.147,403.794 c-.41,6.326-1.32,12.61-2.72,18.794
  M423.428,422.588 L429.299,423.917 M455.239,415.442 L431.36,412.332
 M431.36,412.332 c-1.014,7.788-2.753,15.464-5.19,22.929
  M426.169,435.261 L431.892,437.13 M446.783,428.476 L435.051,425.77
 M435.051,425.77 c-1.769,7.668-4.217,15.163-7.316,22.396
  M427.734,448.165 L433.267,450.536 M453.667,425.062 L447.761,423.899
-M447.761,423.899 c-0.603,3.062-1.304,6.103-2.104,9.118
+M447.761,423.899 c-.603,3.062-1.304,6.103-2.104,9.118
  M445.657,433.018 L451.477,434.56 M441.407,446.391 L435.766,444.291
 M435.766,444.291 c-1.564,4.204-3.332,8.329-5.297,12.361
  M430.469,456.652 L441.292,461.926 M448.676,443.896 L442.969,441.979
-M442.969,441.979 c-0.993,2.958-2.081,5.882-3.265,8.771
+M442.969,441.979 c-.993,2.958-2.081,5.882-3.265,8.771
  M439.705,450.749 L445.275,453.03 M429.128,471.59 L316.261,402.299
 M316.261,402.299 c-3.298,5.372-10.182,7.291-15.784,4.399
  M300.477,406.698 L297.715,412.048 M436.741,470.545 L431.511,467.563
 M431.512,467.563 c-1.545,2.71-3.178,5.37-4.896,7.974
  M426.616,475.538 L431.642,478.852 M396.567,492.633 L318.351,409.177
-M318.35,409.177 c-7.276,6.821-18.706,6.451-25.526-0.826c-3.719-3.968-5.452-9.399-4.718-14.788
+M318.35,409.177 c-7.276,6.821-18.706,6.451-25.526-.826c-3.719-3.968-5.452-9.399-4.718-14.788
  M288.105,393.563 L282.14,392.751 M426.015,486.811 L411.613,475.914
 M411.613,475.914 c-9.081,12.001-20.14,22.365-32.704,30.65
  M378.909,506.564 L382.224,511.591 M403.11,494.695 L398.888,490.404
@@ -50,9 +50,9 @@ M276.517,481.352 c-4.822-1.666-9.495-3.737-13.968-6.192
  M262.549,475.158 L233.582,527.931 M282.87,495.692 L284.231,489.828
 M284.231,489.828 c-6.551-1.521-12.924-3.723-19.016-6.569
  M265.215,483.259 L242.273,532.342 M296.962,503.982 L297.464,497.983
-M297.465,497.983 c-9.84-0.824-19.509-3.067-28.707-6.66
+M297.465,497.983 c-9.84-.824-19.509-3.067-28.707-6.66
  M268.758,491.323 L251.232,536.182 M314.674,510.051 L314.217,504.048
-M314.218,504.048 c-11.507,0.875-23.079-0.094-34.281-2.869
+M314.218,504.048 c-11.507,.875-23.079-.094-34.281-2.869
  M279.937,501.179 L271.249,536.239 M330.921,513.793 L329.676,507.902
 M329.675,507.903 c-9.905,2.096-20.046,2.866-30.155,2.293
  M299.521,510.196 L298.498,528.228 M339.872,517.798 L338.259,511.998
@@ -66,11 +66,11 @@ M364.629,521.435 c-4.063,1.899-8.218,3.601-12.445,5.096
  M352.184,526.53 L356.199,537.882 M374.108,530.207 L371.385,524.839
 M371.384,524.839 c-2.782,1.412-5.608,2.732-8.477,3.962
  M362.907,528.801 L365.278,534.334 M306,534.46 L306,528.44
-M306,528.44 c-5.006,0-10.007-0.284-14.981-0.851
+M306,528.44 c-5.006,0-10.007-.284-14.981-.851
  M291.019,527.59 L288.976,545.534 M313.017,540.31 L312.725,534.297
-M312.724,534.297 c-4.479,0.218-8.968,0.218-13.448,0
+M312.724,534.297 c-4.479,.218-8.968,.218-13.448,0
  M299.276,534.297 L298.691,546.322 M318.173,546.007 L317.686,540.007
-M317.686,540.007 c-3.11,0.252-6.227,0.404-9.346,0.454
+M317.686,540.007 c-3.11,.252-6.227,.404-9.346,.454
  M308.34,540.461 L308.437,546.48 M279.333,544.118 L280.4,538.193
 M280.399,538.193 c-6.143-1.105-12.207-2.608-18.155-4.499
  M262.244,533.695 L260.421,539.432 M269.801,542.082 L271.249,536.239
@@ -86,19 +86,19 @@ M174.138,455.05 c-1.275-2.847-2.458-5.734-3.546-8.658
  M166.343,433.018 L172.162,431.476
 M172.162,431.475 c-1.149-4.336-2.087-8.724-2.81-13.15
  M169.352,418.324 L157.468,420.265 M161.849,439.25 L167.614,437.521
-M167.615,437.521 c-0.897-2.988-1.696-6.005-2.397-9.045
+M167.615,437.521 c-.897-2.988-1.696-6.005-2.397-9.045
  M165.217,428.476 L159.351,429.828 M156.21,410.6 L282.034,398.336
-M282.034,398.336 c-0.364-3.732,0.149-7.497,1.497-10.996
+M282.034,398.336 c-.364-3.732,.149-7.497,1.497-10.996
  M283.531,387.34 L277.914,385.175 M182.059,371.086 L276.49,390.068
 M276.49,390.068 c0.672-3.342,1.907-6.546,3.652-9.475
  M280.142,380.593 L274.97,377.512 M174.293,382.085 L180.28,382.717
 M180.28,382.718 c0.825-7.81,2.376-15.526,4.633-23.048
  M184.913,359.67 L161.849,352.75 M167.704,389.276 L173.716,389.568
-M173.716,389.568 c0.243-5,0.77-9.982,1.576-14.922
+M173.716,389.568 c0.243-5,.77-9.982,1.576-14.922
  M175.293,374.646 L157.469,371.734 M161.52,396 L167.54,396
-M167.54,396 c0-4.485,0.218-8.968,0.653-13.432
+M167.54,396 c0-4.485,.218-8.968,.653-13.432
  M168.193,382.568 L156.21,381.4 M155.579,400.873 L161.596,400.679
-M161.596,400.679 c-0.101-3.118-0.101-6.239,0-9.357
+M161.596,400.679 c-.101-3.118-.101-6.239,0-9.357
  M161.596,391.321 L155.579,391.126 M159.351,362.171 L182.815,367.584
  M164.95,343.509 L272.148,383.402
 M272.148,383.402 c1.525-4.098,3.781-7.885,6.659-11.176
@@ -115,7 +115,7 @@ M265.001,360.58 c13.116-15.182,33.548-21.873,53.103-17.391
  M318.104,343.189 L319.45,337.321 M188.988,301.351 L193.668,305.136
 M193.669,305.136 c1.962-2.426,4.002-4.787,6.117-7.081
  M199.786,298.056 L195.361,293.975 M285.958,295.642 L294.21,336.966
-M294.211,336.966 c16.877-3.37,34.389,0.644,48.113,11.028
+M294.211,336.966 c16.877-3.37,34.389,.644,48.113,11.028
  M342.324,347.994 L345.956,343.193 M262.122,290.371 L266.741,301.49
 M266.74,301.49 c12.427-5.162,25.751-7.823,39.208-7.83
  M305.948,293.66 L305.945,287.64 M243.632,293.013 L246.75,298.162
@@ -135,17 +135,17 @@ M231.658,279.19 c3.784-2.408,7.683-4.631,11.682-6.661
  M243.34,272.53 L240.616,267.162 M233.582,264.069 L236.479,269.346
 M236.479,269.346 c2.735-1.501,5.518-2.913,8.344-4.234
  M244.822,265.111 L242.273,259.658 M288.113,258.7 L292.001,288.548
-M292.001,288.548 c9.257-1.206,18.631-1.211,27.89-0.014
+M292.001,288.548 c9.257-1.206,18.631-1.211,27.89-.014
  M319.89,288.534 L320.662,282.564 M279.333,247.881 L281.466,259.731
-M281.466,259.731 c4.414-0.795,8.865-1.374,13.335-1.737
+M281.466,259.731 c4.414-.795,8.865-1.374,13.335-1.737
  M294.801,257.994 L294.314,251.994 M288.976,246.466 L289.657,252.447
-M289.657,252.447 c3.1-0.353,6.21-0.605,9.326-0.757
+M289.657,252.447 c3.1-.353,6.21-.605,9.326-.757
  M298.984,251.69 L298.692,245.678 M313.017,251.69 L311.555,281.754
-M311.555,281.755 c6.093,0.296,12.152,1.079,18.121,2.342
+M311.555,281.755 c6.093,.296,12.152,1.079,18.121,2.342
  M329.675,284.097 L330.921,278.207 M308.438,245.52 L308.34,251.539
-M308.34,251.539 c3.119,0.051,6.235,0.202,9.346,0.454
+M308.34,251.539 c3.119,.051,6.235,.202,9.346,.454
  M317.686,251.993 L318.173,245.993 M327.856,247.096 L323.486,276.876
-M323.485,276.876 c4.985,0.732,9.919,1.776,14.773,3.126
+M323.485,276.876 c4.985,.732,9.919,1.776,14.773,3.126
  M338.259,280.002 L339.872,274.202 M337.449,248.823 L332.418,272.371
 M332.418,272.371 c5.007,1.07,9.943,2.443,14.784,4.111
  M347.201,276.482 L349.163,270.792 M346.91,251.167 L342.001,268.547
@@ -183,105 +183,103 @@ M434.02,362.067 c1.283,4.839,2.29,9.746,3.017,14.699
  M437.036,376.766 L442.992,375.892 M453.667,366.938 L441.854,369.263
 M441.854,369.263 c0.866,4.401,1.519,8.841,1.953,13.305
  M443.807,382.568 L449.799,381.984 M455.239,376.557 L449.27,377.335
-M449.27,377.335 c0.402,3.094,0.706,6.2,0.908,9.313
+M449.27,377.335 c0.402,3.094,.706,6.2,.908,9.313
  M450.177,386.648 L456.184,386.258"/>
-
- <text transform="matrix(1 0 0 1 460 399)">Spirochaetes</text>
- <text transform="matrix(0.9979 0.0647 -0.0647 0.9979 459.4824 408.9629)">Chlamydias</text>
- <text transform="matrix(0.9916 0.1292 -0.1292 0.9916 458.3223 418.8691)">Hyperthermophilic bacteria</text>
- <text transform="matrix(0.9812 0.1931 -0.1931 0.9812 456.5225 428.6816)">Cyanobacteria</text>
- <text transform="matrix(0.9666 0.2562 -0.2562 0.9666 454.0908 438.3564)">Low-GC Gram-positives</text>
- <text transform="matrix(0.948 0.3182 -0.3182 0.948 451.04 447.8545)">High-GC Gram-positives</text>
- <text transform="matrix(0.9254 0.3789 -0.3789 0.9254 447.377 457.1328)">Deinococcus/Thermus</text>
- <text transform="matrix(0.899 0.438 -0.438 0.899 443.124 466.1553)">Proteobacteria</text>
- <text transform="matrix(0.8687 0.4953 -0.4953 0.8687 438.2969 474.8857)">Crenarchaeota</text>
- <text transform="matrix(0.8348 0.5505 -0.5505 0.8348 432.9121 483.2842)">Euryarchaeota</text>
- <text transform="matrix(0.7974 0.6034 -0.6034 0.7974 426.9961 491.3164)">Haptophytes</text>
- <text transform="matrix(0.7567 0.6537 -0.6537 0.7567 420.5723 498.9473)">Brown algae</text>
- <text transform="matrix(0.7128 0.7014 -0.7014 0.7128 413.6689 506.1475)">Diatoms</text>
- <text transform="matrix(0.6659 0.746 -0.746 0.6659 406.3125 512.8848)">Oomycetes</text>
- <text transform="matrix(0.6162 0.7876 -0.7876 0.6162 398.5371 519.1328)">Dinoflagellates</text>
- <text transform="matrix(0.564 0.8258 -0.8258 0.564 390.373 524.8652)">Apicomplexans</text>
- <text transform="matrix(0.5093 0.8606 -0.8606 0.5093 381.8535 530.0566)">Ciliates</text>
- <text transform="matrix(0.4525 0.8917 -0.8917 0.4525 373.0166 534.6855)">Eudicots</text>
- <text transform="matrix(0.3939 0.9192 -0.9192 0.3939 363.8994 538.7324)">Monocots</text>
- <text transform="matrix(0.3336 0.9427 -0.9427 0.3336 354.5391 542.1807)">Magnoliids</text>
- <text transform="matrix(0.2718 0.9623 -0.9623 0.2718 344.9736 545.0166)">Star anise</text>
- <text transform="matrix(0.209 0.9779 -0.9779 0.209 335.2471 547.2266)">Water lilies</text>
- <text transform="matrix(0.1452 0.9894 -0.9894 0.1452 325.3965 548.8047)">Amborella</text>
- <text transform="matrix(0.0809 0.9967 -0.9967 0.0809 315.4658 549.7383)">Conifers</text>
- <text transform="matrix(0.0162 1 -1 0.0162 305.4932 550.0283)">Gnetophytes</text>
- <text transform="matrix(0.0486 -0.9988 0.9988 0.0486 300.2061 576.9326)">Ginkgo</text>
- <text transform="matrix(0.1131 -0.9936 0.9936 0.1131 288.2812 578.166)">Cycads</text>
- <text transform="matrix(0.1772 -0.9842 0.9842 0.1772 277.7676 569.7461)">Ferns</text>
- <text transform="matrix(0.2405 -0.9706 0.9706 0.2405 262.4902 584.0547)">Horsetails</text>
- <text transform="matrix(0.3028 -0.953 0.953 0.3028 247.9863 588.4688)">Whisk ferns</text>
- <text transform="matrix(0.3639 -0.9314 0.9314 0.3639 214.9072 637.4023)">Club mosses and relatives</text>
- <text transform="matrix(0.4234 -0.9059 0.9059 0.4234 226.5723 573.0205)">Hornworts</text>
- <text transform="matrix(0.4812 -0.8766 0.8766 0.4812 219.6104 559.6182)">Mosses</text>
- <text transform="matrix(0.5369 -0.8436 0.8436 0.5369 204.3682 561.2754)">Liverworts</text>
- <text transform="matrix(0.5904 -0.8071 0.8071 0.5904 196.835 550.3145)">Charales</text>
- <text transform="matrix(0.6414 -0.7672 0.7672 0.6414 170.3984 562.8711)">Coleochaetales</text>
- <text transform="matrix(0.6897 -0.7241 0.7241 0.6897 166.0898 547.2285)">Chlorophytes</text>
- <text transform="matrix(0.7351 -0.6779 0.6779 0.7351 165.416 529.7188)">Red Algae</text>
- <text transform="matrix(0.7775 -0.6289 0.6289 0.7775 146.1699 529.1445)">Glaucophytes</text>
- <text transform="matrix(0.8166 -0.5773 0.5773 0.8166 137.0703 519.0957)">Kinetoplastids</text>
- <text transform="matrix(0.8522 -0.5232 0.5232 0.8522 143.9443 499.0098)">Euglenids</text>
- <text transform="matrix(0.8843 -0.4669 0.4669 0.8843 111.9717 501.8438)">Heteroloboseans</text>
- <text transform="matrix(0.9127 -0.4087 0.4087 0.9127 120.1299 482.5234)">Parabasalids</text>
- <text transform="matrix(0.9372 -0.3488 0.3488 0.9372 114.9199 470.3105)">Diplomonads</text>
- <text transform="matrix(0.9578 -0.2874 0.2874 0.9578 102.8477 460.0859)">Foraminiferans</text>
- <text transform="matrix(0.9744 -0.2248 0.2248 0.9744 110.8174 444.1035)">Cercozoans</text>
- <text transform="matrix(0.9869 -0.1612 0.1612 0.9869 106.1396 431.6904)">Radiolarians</text>
- <text transform="matrix(0.9953 -0.097 0.097 0.9953 96.2861 419.4551)">Amoebozoans</text>
- <text transform="matrix(0.9995 -0.0324 0.0324 0.9995 110.1997 405.3457)">Club Fungi</text>
- <text transform="matrix(0.9995 0.0324 -0.0324 0.9995 113.0039 392.748)">Sac Fungi</text>
- <text transform="matrix(0.9953 0.097 -0.097 0.9953 36.9819 372.793)">Arbuscular Mycorrhizal Fungi</text>
- <text transform="matrix(0.9869 0.1612 -0.1612 0.9869 80.499 362.2012)">"Zygospore Fungi"</text>
- <text transform="matrix(0.9744 0.2248 -0.2248 0.9744 117.2637 355.542)">"Chytrids"</text>
- <text transform="matrix(0.9578 0.2874 -0.2874 0.9578 106.8696 339.3867)">Microsporidia</text>
- <text transform="matrix(0.9372 0.3488 -0.3488 0.9372 94.0825 320.3389)">Choanoflagellates</text>
- <text transform="matrix(0.9127 0.4087 -0.4087 0.9127 111.2891 312.0918)">Glass sponges</text>
- <text transform="matrix(0.8843 0.4669 -0.4669 0.8843 118.0127 300.1309)">Demosponges</text>
- <text transform="matrix(0.8522 0.5232 -0.5232 0.8522 104.1602 275.6064)">Calcareous sponges</text>
- <text transform="matrix(0.8166 0.5773 -0.5773 0.8166 141.772 283.5762)">Placozoans</text>
- <text transform="matrix(0.7775 0.6289 -0.6289 0.7775 145.5068 270.0371)">Ctenophores</text>
- <text transform="matrix(0.7351 0.6779 -0.6779 0.7351 159.8779 265.335)">Cnidarians</text>
- <text transform="matrix(0.6897 0.7241 -0.7241 0.6897 169.332 256.874)">Bryozoans</text>
- <text transform="matrix(0.6414 0.7672 -0.7672 0.6414 179.2651 249.0879)">Flatworms</text>
- <text transform="matrix(0.5904 0.8071 -0.8071 0.5904 194.9448 249.2637)">Rotifers</text>
- <text transform="matrix(0.5369 0.8436 -0.8436 0.5369 190.7168 220.4482)">Ribbon worms</text>
- <text transform="matrix(0.4812 0.8766 -0.8766 0.4812 205.6895 219.4912)">Brachiopods</text>
- <text transform="matrix(0.4234 0.9059 -0.9059 0.4234 221.5596 222.4268)">Phoronids</text>
- <text transform="matrix(0.3639 0.9314 -0.9314 0.3639 234.792 221.9814)">Annelids</text>
- <text transform="matrix(0.3029 0.953 -0.953 0.3029 245.9033 216.7842)">Mollusks</text>
- <text transform="matrix(0.2405 0.9706 -0.9706 0.2405 253.5391 196.7705)">Arrow worms</text>
- <text transform="matrix(0.1772 0.9842 -0.9842 0.1772 269.0264 207.5703)">Priapulids</text>
- <text transform="matrix(0.1131 0.9936 -0.9936 0.1131 280.1699 195.6367)">Kinorhynchs</text>
- <text transform="matrix(0.0486 0.9988 -0.9988 0.0486 293.3398 197.3809)">Loriciferans</text>
- <text transform="matrix(0.0162 -1 1 0.0162 311.4941 242.0679)">Horsehair worms</text>
- <text transform="matrix(0.0809 -0.9967 0.9967 0.0809 321.4463 242.7476)">Nematodes</text>
- <text transform="matrix(0.1452 -0.9894 0.9894 0.1452 331.333 244.0684)">Tardigrades</text>
- <text transform="matrix(0.209 -0.9779 0.9779 0.209 341.1162 246.0269)">Onychophorans</text>
- <text transform="matrix(0.2718 -0.9623 0.9623 0.2718 350.75 248.6133)">Chelicerates</text>
- <text transform="matrix(0.3336 -0.9427 0.9427 0.3336 360.1953 251.8208)">Myriapods</text>
- <text transform="matrix(0.3939 -0.9192 0.9192 0.3939 369.4131 255.6309)">Crustaceans</text>
- <text transform="matrix(0.4525 -0.8917 0.8917 0.4525 378.3672 260.0298)">Hexapods</text>
- <text transform="matrix(0.5093 -0.8606 0.8606 0.5093 387.0176 265.0005)">Echinoderms</text>
- <text transform="matrix(0.564 -0.8258 0.8258 0.564 395.3271 270.5176)">Hemichordates</text>
- <text transform="matrix(0.6162 -0.7876 0.7876 0.6162 403.2617 276.563)">Cephalochordates</text>
- <text transform="matrix(0.6659 -0.746 0.746 0.6659 410.79 283.1094)">Urochordates</text>
- <text transform="matrix(0.7128 -0.7014 0.7014 0.7128 417.876 290.1294)">Hagfishes</text>
- <text transform="matrix(0.7567 -0.6537 0.6537 0.7567 424.4951 297.5928)">Lampreys</text>
- <text transform="matrix(0.7974 -0.6034 0.6034 0.7974 430.6172 305.4692)">Chondrichthyans</text>
- <text transform="matrix(0.8348 -0.5505 0.5505 0.8348 436.2148 313.7261)">Ray-finned fishes</text>
- <text transform="matrix(0.8687 -0.4953 0.4953 0.8687 441.2686 322.3276)">Lobe-finned fishes</text>
- <text transform="matrix(0.899 -0.438 0.438 0.899 445.7529 331.2373)">Lungfishes</text>
- <text transform="matrix(0.9254 -0.3789 0.3789 0.9254 449.6514 340.4199)">Amphibians</text>
- <text transform="matrix(0.948 -0.3182 0.3182 0.948 452.9482 349.834)">Mammals</text>
- <text transform="matrix(0.9666 -0.2562 0.2562 0.9666 455.6289 359.4434)">Turtles</text>
- <text transform="matrix(0.9812 -0.1931 0.1931 0.9812 457.6816 369.2051)">Lepidosaurs</text>
- <text transform="matrix(0.9916 -0.1292 0.1292 0.9916 459.0967 379.0801)">Crocodilians</text>
- <text transform="matrix(0.9979 -0.0647 0.0647 0.9979 459.8711 389.0254)">Birds</text>
-</g>
-</svg>
+<text transform="matrix(1 0 0 1 460 399)">Spirochaetes</text>
+<text transform="matrix(.9979 .0647 -.0647 .9979 459.4824 408.9629)">Chlamydias</text>
+<text transform="matrix(.9916 .1292 -.1292 .9916 458.3223 418.8691)">Hyperthermophilic bacteria</text>
+<text transform="matrix(.9812 .1931 -.1931 .9812 456.5225 428.6816)">Cyanobacteria</text>
+<text transform="matrix(.9666 .2562 -.2562 .9666 454.0908 438.3564)">Low-GC Gram-positives</text>
+<text transform="matrix(.948 .3182 -.3182 .948 451.04 447.8545)">High-GC Gram-positives</text>
+<text transform="matrix(.9254 .3789 -.3789 .9254 447.377 457.1328)">Deinococcus/Thermus</text>
+<text transform="matrix(.899 .438 -.438 .899 443.124 466.1553)">Proteobacteria</text>
+<text transform="matrix(.8687 .4953 -.4953 .8687 438.2969 474.8857)">Crenarchaeota</text>
+<text transform="matrix(.8348 .5505 -.5505 .8348 432.9121 483.2842)">Euryarchaeota</text>
+<text transform="matrix(.7974 .6034 -.6034 .7974 426.9961 491.3164)">Haptophytes</text>
+<text transform="matrix(.7567 .6537 -.6537 .7567 420.5723 498.9473)">Brown algae</text>
+<text transform="matrix(.7128 .7014 -.7014 .7128 413.6689 506.1475)">Diatoms</text>
+<text transform="matrix(.6659 .746 -.746 .6659 406.3125 512.8848)">Oomycetes</text>
+<text transform="matrix(.6162 .7876 -.7876 .6162 398.5371 519.1328)">Dinoflagellates</text>
+<text transform="matrix(.564 .8258 -.8258 .564 390.373 524.8652)">Apicomplexans</text>
+<text transform="matrix(.5093 .8606 -.8606 .5093 381.8535 530.0566)">Ciliates</text>
+<text transform="matrix(.4525 .8917 -.8917 .4525 373.0166 534.6855)">Eudicots</text>
+<text transform="matrix(.3939 .9192 -.9192 .3939 363.8994 538.7324)">Monocots</text>
+<text transform="matrix(.3336 .9427 -.9427 .3336 354.5391 542.1807)">Magnoliids</text>
+<text transform="matrix(.2718 .9623 -.9623 .2718 344.9736 545.0166)">Star anise</text>
+<text transform="matrix(.209 .9779 -.9779 .209 335.2471 547.2266)">Water lilies</text>
+<text transform="matrix(.1452 .9894 -.9894 .1452 325.3965 548.8047)">Amborella</text>
+<text transform="matrix(.0809 .9967 -.9967 .0809 315.4658 549.7383)">Conifers</text>
+<text transform="matrix(.0162 1 -1 .0162 305.4932 550.0283)">Gnetophytes</text>
+<text transform="matrix(.0486 -.9988 .9988 .0486 300.2061 576.9326)">Ginkgo</text>
+<text transform="matrix(.1131 -.9936 .9936 .1131 288.2812 578.166)">Cycads</text>
+<text transform="matrix(.1772 -.9842 .9842 .1772 277.7676 569.7461)">Ferns</text>
+<text transform="matrix(.2405 -.9706 .9706 .2405 262.4902 584.0547)">Horsetails</text>
+<text transform="matrix(.3028 -.953 .953 .3028 247.9863 588.4688)">Whisk ferns</text>
+<text transform="matrix(.3639 -.9314 .9314 .3639 214.9072 637.4023)">Club mosses and relatives</text>
+<text transform="matrix(.4234 -.9059 .9059 .4234 226.5723 573.0205)">Hornworts</text>
+<text transform="matrix(.4812 -.8766 .8766 .4812 219.6104 559.6182)">Mosses</text>
+<text transform="matrix(.5369 -.8436 .8436 .5369 204.3682 561.2754)">Liverworts</text>
+<text transform="matrix(.5904 -.8071 .8071 .5904 196.835 550.3145)">Charales</text>
+<text transform="matrix(.6414 -.7672 .7672 .6414 170.3984 562.8711)">Coleochaetales</text>
+<text transform="matrix(.6897 -.7241 .7241 .6897 166.0898 547.2285)">Chlorophytes</text>
+<text transform="matrix(.7351 -.6779 .6779 .7351 165.416 529.7188)">Red Algae</text>
+<text transform="matrix(.7775 -.6289 .6289 .7775 146.1699 529.1445)">Glaucophytes</text>
+<text transform="matrix(.8166 -.5773 .5773 .8166 137.0703 519.0957)">Kinetoplastids</text>
+<text transform="matrix(.8522 -.5232 .5232 .8522 143.9443 499.0098)">Euglenids</text>
+<text transform="matrix(.8843 -.4669 .4669 .8843 111.9717 501.8438)">Heteroloboseans</text>
+<text transform="matrix(.9127 -.4087 .4087 .9127 120.1299 482.5234)">Parabasalids</text>
+<text transform="matrix(.9372 -.3488 .3488 .9372 114.9199 470.3105)">Diplomonads</text>
+<text transform="matrix(.9578 -.2874 .2874 .9578 102.8477 460.0859)">Foraminiferans</text>
+<text transform="matrix(.9744 -.2248 .2248 .9744 110.8174 444.1035)">Cercozoans</text>
+<text transform="matrix(.9869 -.1612 .1612 .9869 106.1396 431.6904)">Radiolarians</text>
+<text transform="matrix(.9953 -.097 .097 .9953 96.2861 419.4551)">Amoebozoans</text>
+<text transform="matrix(.9995 -.0324 .0324 .9995 110.1997 405.3457)">Club Fungi</text>
+<text transform="matrix(.9995 .0324 -.0324 .9995 113.0039 392.748)">Sac Fungi</text>
+<text transform="matrix(.9953 .097 -.097 .9953 36.9819 372.793)">Arbuscular Mycorrhizal Fungi</text>
+<text transform="matrix(.9869 .1612 -.1612 .9869 80.499 362.2012)">"Zygospore Fungi"</text>
+<text transform="matrix(.9744 .2248 -.2248 .9744 117.2637 355.542)">"Chytrids"</text>
+<text transform="matrix(.9578 .2874 -.2874 .9578 106.8696 339.3867)">Microsporidia</text>
+<text transform="matrix(.9372 .3488 -.3488 .9372 94.0825 320.3389)">Choanoflagellates</text>
+<text transform="matrix(.9127 .4087 -.4087 .9127 111.2891 312.0918)">Glass sponges</text>
+<text transform="matrix(.8843 .4669 -.4669 .8843 118.0127 300.1309)">Demosponges</text>
+<text transform="matrix(.8522 .5232 -.5232 .8522 104.1602 275.6064)">Calcareous sponges</text>
+<text transform="matrix(.8166 .5773 -.5773 .8166 141.772 283.5762)">Placozoans</text>
+<text transform="matrix(.7775 .6289 -.6289 .7775 145.5068 270.0371)">Ctenophores</text>
+<text transform="matrix(.7351 .6779 -.6779 .7351 159.8779 265.335)">Cnidarians</text>
+<text transform="matrix(.6897 .7241 -.7241 .6897 169.332 256.874)">Bryozoans</text>
+<text transform="matrix(.6414 .7672 -.7672 .6414 179.2651 249.0879)">Flatworms</text>
+<text transform="matrix(.5904 .8071 -.8071 .5904 194.9448 249.2637)">Rotifers</text>
+<text transform="matrix(.5369 .8436 -.8436 .5369 190.7168 220.4482)">Ribbon worms</text>
+<text transform="matrix(.4812 .8766 -.8766 .4812 205.6895 219.4912)">Brachiopods</text>
+<text transform="matrix(.4234 .9059 -.9059 .4234 221.5596 222.4268)">Phoronids</text>
+<text transform="matrix(.3639 .9314 -.9314 .3639 234.792 221.9814)">Annelids</text>
+<text transform="matrix(.3029 .953 -.953 .3029 245.9033 216.7842)">Mollusks</text>
+<text transform="matrix(.2405 .9706 -.9706 .2405 253.5391 196.7705)">Arrow worms</text>
+<text transform="matrix(.1772 .9842 -.9842 .1772 269.0264 207.5703)">Priapulids</text>
+<text transform="matrix(.1131 .9936 -.9936 .1131 280.1699 195.6367)">Kinorhynchs</text>
+<text transform="matrix(.0486 .9988 -.9988 .0486 293.3398 197.3809)">Loriciferans</text>
+<text transform="matrix(.0162 -1 1 .0162 311.4941 242.0679)">Horsehair worms</text>
+<text transform="matrix(.0809 -.9967 .9967 .0809 321.4463 242.7476)">Nematodes</text>
+<text transform="matrix(.1452 -.9894 .9894 .1452 331.333 244.0684)">Tardigrades</text>
+<text transform="matrix(.209 -.9779 .9779 .209 341.1162 246.0269)">Onychophorans</text>
+<text transform="matrix(.2718 -.9623 .9623 .2718 350.75 248.6133)">Chelicerates</text>
+<text transform="matrix(.3336 -.9427 .9427 .3336 360.1953 251.8208)">Myriapods</text>
+<text transform="matrix(.3939 -.9192 .9192 .3939 369.4131 255.6309)">Crustaceans</text>
+<text transform="matrix(.4525 -.8917 .8917 .4525 378.3672 260.0298)">Hexapods</text>
+<text transform="matrix(.5093 -.8606 .8606 .5093 387.0176 265.0005)">Echinoderms</text>
+<text transform="matrix(.564 -.8258 .8258 .564 395.3271 270.5176)">Hemichordates</text>
+<text transform="matrix(.6162 -.7876 .7876 .6162 403.2617 276.563)">Cephalochordates</text>
+<text transform="matrix(.6659 -.746 .746 .6659 410.79 283.1094)">Urochordates</text>
+<text transform="matrix(.7128 -.7014 .7014 .7128 417.876 290.1294)">Hagfishes</text>
+<text transform="matrix(.7567 -.6537 .6537 .7567 424.4951 297.5928)">Lampreys</text>
+<text transform="matrix(.7974 -.6034 .6034 .7974 430.6172 305.4692)">Chondrichthyans</text>
+<text transform="matrix(.8348 -.5505 .5505 .8348 436.2148 313.7261)">Ray-finned fishes</text>
+<text transform="matrix(.8687 -.4953 .4953 .8687 441.2686 322.3276)">Lobe-finned fishes</text>
+<text transform="matrix(.899 -.438 .438 .899 445.7529 331.2373)">Lungfishes</text>
+<text transform="matrix(.9254 -.3789 .3789 .9254 449.6514 340.4199)">Amphibians</text>
+<text transform="matrix(.948 -.3182 .3182 .948 452.9482 349.834)">Mammals</text>
+<text transform="matrix(.9666 -.2562 .2562 .9666 455.6289 359.4434)">Turtles</text>
+<text transform="matrix(.9812 -.1931 .1931 .9812 457.6816 369.2051)">Lepidosaurs</text>
+<text transform="matrix(.9916 -.1292 .1292 .9916 459.0967 379.0801)">Crocodilians</text>
+<text transform="matrix(.9979 -.0647 .0647 .9979 459.8711 389.0254)">Birds</text>
+</g></svg>
